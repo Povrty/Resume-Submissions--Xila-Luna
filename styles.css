@@ -1,0 +1,41 @@
+body {
+    text-align:center;
+    font-family:Calibri;
+    border: solid .5px #5c88ce;
+    margin: 25px 100px 25px 100px;
+    background-color:#F3F5F6;
+}
+gr-ay {
+        color:#a6a6a6;
+}
+hr {
+    width: 1000px;
+    border: solid .25px #8ba6d0;
+}
+p {
+    line-height:1px;
+}
+a:link {
+    color:#000000;
+    text-decoration: none;
+}
+a:hover{
+    color:hotpink;
+}
+h1 {
+    line-height:15px;
+    font-size: 48px;
+}
+h2 {
+    line-height:15px;
+}
+span {
+    font-size: 32px;
+    background-color:#557cba;
+    padding: 0 430px;
+    color:#ffffff;
+}
+iframe {
+    border: 0px;
+    width: 560px;
+}
