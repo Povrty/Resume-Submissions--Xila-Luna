@@ -24,7 +24,7 @@ a:link {
     text-decoration: none;
 }
 a:hover{
-    color:hotpink;
+    color: hotpink;
 }
 h1 {
     line-height:15px;
@@ -32,6 +32,10 @@ h1 {
 }
 h2 {
     line-height:15px;
+}
+img.Unknown {
+            width: 250px;
+            margin-left: 524px;
 }
 hea-der {
         font-family: 'Niramit', sans-serif;
